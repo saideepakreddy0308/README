@@ -16,8 +16,8 @@
 <p>&nbsp;<img align="lefr" src="https://github-readme-stats.vercel.app/api/top-langs?username=saideepakreddy0308&show_icons=true&locale=en&layout=compact" alt="saideepakreddy0308" /></p>
 <p><img align="right" alt="GIF" src="https://github.com/saideepakreddy0308/README/blob/main/code.gif?raw=true" width="310" height="170" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saideepakreddy0308&show_icons=true&locale=en" alt="saideepakreddy0308" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saideepakreddy0308&" alt="saideepakreddy0308" /></p>
- -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saideepakreddy0308&" alt="saideepakreddy0308" /></p>-->
+
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sai-deepak-reddy-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai deepak reddy k" height="30" width="40" /></a>
