@@ -22,7 +22,7 @@
 <div style="display: flex; flex-direction: row;justify-content: space-between;">
     
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saideepakreddy0308&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="saideepakreddy0308" />
-<img align="" src="https://github-readme-stats.vercel.app/api?username=saideepakreddy0308&show_icons=true&hide_border=true&theme=radical" alt="saideepakreddy0308" /> 
+<img align="" src="https://github-readme-stats.vercel.app/api?username=saideepakreddy0308&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" alt="saideepakreddy0308" /> 
 </div>
 
 <span><img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></span>Connect with me: 
