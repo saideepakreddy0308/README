@@ -46,4 +46,5 @@
 
 ---
 
+<p align="center">"If you're unable to find specific repositories or projects, they might be private. Feel free to contact me for more details!"</p>
 <p align="center">"Happy Coding! 👨‍💻"</p>
